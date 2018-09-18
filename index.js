@@ -1,3 +1,3 @@
 let destructivelyAppendKitten = ['Milo','Otis','Garfield'];
 
-let destructivelyPrependKitten = [ ];
+function destructivelyAppendKitten = [ ];
